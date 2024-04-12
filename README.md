@@ -1,1 +1,1 @@
-# Cinema-Sales-Analysis
+# Cinema Sales Analysis
