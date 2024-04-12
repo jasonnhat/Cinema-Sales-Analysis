@@ -19,4 +19,4 @@ The project begins by cleaning, validating, and normalizing the data using Pytho
    - Explore the pre-built data models and visualizations to gain insights into customer behavior and sales trends.
                               
 
-![repository-open-graph-template](https://github.com/jasonnhat/Cinema-Sales-Analysis/assets/166852789/c5d2576c-803f-408e-86b8-fdd75b7ebe84)
+
