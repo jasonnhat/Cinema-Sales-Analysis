@@ -12,11 +12,15 @@ The project begins by cleaning, validating, and normalizing the data using Pytho
 
 1. **Data Cleaning with Python:**
    - Navigate to the `data` directory.
-   - Run the Jupyter Notebook file `data_cleaning.ipynb` to perform data cleaning, validation, and normalization.
+   - Run the Jupyter Notebook file `data cleaning.ipynb` to perform data cleaning, validation, and normalization.
 
 2. **Visualization with Power BI:**
-   - Open the Power BI file `Cinema Sales Analysis.pbix` using Power BI Desktop.
+   - Open the Power BI file `cinema sales analysis.pbix` using Power BI Desktop.
    - Explore the pre-built data models and visualizations to gain insights into customer behavior and sales trends.
-                              
+
+
+![customer dashboard](https://github.com/jasonnhat/Cinema-Sales-Analysis/assets/166852789/0eda4cac-2092-4f5c-bed6-55206f90e6f1)
+![sales dashboard](https://github.com/jasonnhat/Cinema-Sales-Analysis/assets/166852789/7852bdd4-4231-412a-8efd-ee6ebb1eedb1)
+![movies dashboard](https://github.com/jasonnhat/Cinema-Sales-Analysis/assets/166852789/36d5348b-5cfd-48bb-afac-e5d36d52f2b2)
 
 
