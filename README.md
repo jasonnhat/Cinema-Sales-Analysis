@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This project involves working with a large dataset containing approximately 4.5 thousand customer records and over 35 thousand rows of cinema industry data. The goal is to derive meaningful insights about customers and sales for the company.
+The project involves working with a large dataset containing approximately 4.5 thousand customer records and over 35 thousand rows of cinema industry data. The goal is to derive meaningful insights about customers and sales for the company.
 
 The project begins by cleaning, validating, and normalizing the data using Python. Once the data is prepared, it is imported into Power BI to create data models and utilize DAX for visualization.
 
