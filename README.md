@@ -23,7 +23,13 @@ The project begins by cleaning, validating, and normalizing the data using Pytho
 
 ![Cinema Sales Analysis](https://github.com/jasonnhat/Cinema-Sales-Analysis/raw/main/customer%20dashboard.png)
 ![Cinema Sales Analysis](https://github.com/jasonnhat/Cinema-Sales-Analysis/raw/main/sales%20dashboard.png)
-![Cinema Sales Analysis](https://github.com/jasonnhat/Cinema-Sales-Analysis/raw/main/movies%20dashboard.png)
+![Cinema Sales Analysis](https://github.com/jasonnhat/Cinema-Sales-Analysis/raw/main/movie%20dashboard.png)
 
 
 ## Insights 
+
+- Almost 90% of the customers are between 15 to under 35 years old.
+- There is no significant difference between the number of male and female customers.
+- Revenue generally increases from Monday to Sunday, with Sunday recording the highest revenue, followed by Thursday.
+- The top 2 customers contribute to approximately half of the company's revenue.
+- Action, adventure, and horror are the most favored genres by customers.
