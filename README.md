@@ -21,4 +21,9 @@ The project begins by cleaning, validating, and normalizing the data using Pytho
 
 ## Dashboards
 
+![Cinema Sales Analysis](https://github.com/jasonnhat/Cinema-Sales-Analysis/raw/main/customer%20dashboard.png)
+![Cinema Sales Analysis](https://github.com/jasonnhat/Cinema-Sales-Analysis/raw/main/sales%20dashboard.png)
 ![Cinema Sales Analysis](https://github.com/jasonnhat/Cinema-Sales-Analysis/raw/main/movies%20dashboard.png)
+
+
+## Insights 
